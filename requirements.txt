@@ -1,0 +1,4 @@
+pycryptodome
+pycryptodomex
+pycrypto
+termcolor 
